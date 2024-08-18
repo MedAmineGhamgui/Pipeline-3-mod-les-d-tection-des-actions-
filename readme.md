@@ -25,3 +25,7 @@ Pour utiliser le pipeline, suivez ces étapes :
 
 4. Exécutez le fichier main.py
    python main.py
+
+
+---
+Cette version est développée par Mohamed Amine Ghamgui.
