@@ -35,5 +35,7 @@ Voici une démonstration du pipeline en action :
   Votre navigateur ne supporte pas la balise vidéo.
 </video>
 
+
+[Regarder la vidéo](202408171624 (1) (1).mp4)
 ---
 Cette version est développée par Mohamed Amine Ghamgui.
