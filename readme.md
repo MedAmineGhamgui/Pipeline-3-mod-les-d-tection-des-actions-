@@ -31,7 +31,7 @@ Pour utiliser le pipeline, suivez ces étapes :
 Voici une démonstration du pipeline en action :
 
 <video width="640" height="360" controls>
-  <source src="URL_DE_VOTRE_VIDEO" type="video/mp4">
+  <source src="202408171624 (1) (1).mp4" type="video/mp4">
   Votre navigateur ne supporte pas la balise vidéo.
 </video>
 
